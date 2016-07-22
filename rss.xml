@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kevin Quach Design]]></title>
         <description><![CDATA[Kevin Quach Design]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kevin-quach-design/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 05:17:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jul 2016 05:28:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kevin-quach-design/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newly Renovated Gilman Playground]]></title>
+            <description><![CDATA[<article><h1>Newly Renovated Gilman Playground</h1><p>Bird's-eye View - Gilman Playground, San Francisco, CA</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/30af0ac422cba55de737de77488c8571/croprotate.jpg?cropheight=898&cropwidth=1600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fb6af0f60-24e1-4aaf-b288-01f7317fc263.jpg&x=0&y=0"></article>]]></description>
+            <link>https://thegrid.ai/kevin-quach-design/newly-renovated-gilman-playground/index.html</link>
+            <guid isPermaLink="false">160a533c-3957-4aae-8fec-23ec06e5a7c8</guid>
+            <pubDate>Fri, 22 Jul 2016 05:28:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9787ccebb1b38f9a116c465e8dbfc7b4/croprotate.jpg?cropheight=898&cropwidth=1600&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa4e0d948-d806-4d21-9770-cb04ea56b5ab.jpg&x=0&y=0" alt="Plan View - Gilman Playground, San Francisco, CA">]]></description>
-            <link>undefinedplan-view-gilman-playground-san-francisco-ca/index.html</link>
+            <link>https://thegrid.ai/kevin-quach-design/plan-view-gilman-playground-san-francisco-ca/index.html</link>
             <guid isPermaLink="false">f8f8bfa4-d5a3-48bc-8eb7-c3ca7547ede0</guid>
             <pubDate>Fri, 22 Jul 2016 05:17:52 GMT</pubDate>
         </item>
