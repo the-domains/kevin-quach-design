@@ -1,14 +1,14 @@
-layout_spectrum: 0.09378250921145082
-typography_spectrum: 0.06758912885561585
+layout_spectrum: 0.5256905006244779
+typography_spectrum: 0.256592353573069
 color:
-  brandStrength: 0.5144259526859969
-  lightness: 0.0031738460529595613
-  saturation: 0.36565662175416946
-  rhythmicContrast: 0.6047912414651364
+  brandStrength: 0.4947225411888212
+  lightness: 0.8804746447131038
+  saturation: 0.8776152059435844
+  rhythmicContrast: 0.5370545641053468
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Kevin Quach Design
